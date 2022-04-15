@@ -9,7 +9,7 @@
  */
 
 #include <iostream>
-#include "../inc/GeneticAlgorithm.h"
+#include "GeneticAlgorithm.h"
 using namespace std;
 
 // A furniture manufacturer makes two types of furniture – chairs and sofas.

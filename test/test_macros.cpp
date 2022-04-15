@@ -8,7 +8,7 @@
  *
  */
 
-#include "..\inc\GeneticAlgorithm.h"
+#include "GeneticAlgorithm.h"
 
 #define MN -205
 #define MX 205

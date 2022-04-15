@@ -9,7 +9,7 @@
  */
 
 #include <iostream>
-#include "../inc/GeneticAlgorithm.h"
+#include "GeneticAlgorithm.h"
 using namespace std;
 
 // In the range [-205, 205] what is the maximum value of the function $f(x) = x * (0.4 + sin(x / 2))$.

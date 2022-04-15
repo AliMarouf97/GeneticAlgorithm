@@ -8,7 +8,7 @@
  *
  */
 
-#include "..\inc\GeneticAlgorithm.h"
+#include "GeneticAlgorithm.h"
 
 using namespace std;
 

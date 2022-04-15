@@ -9,7 +9,7 @@
  */
 
 #include <iostream>
-#include "../inc/GeneticAlgorithm.h"
+#include "GeneticAlgorithm.h"
 #include <chrono>
 using namespace std;
 
