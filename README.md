@@ -30,10 +30,14 @@ You can include this library by add all these files to your project: [src folder
 Get started by downloading this repository and compiling the example which matches your problem.
 
 ```sh
+git clone https://github.com/AliMarouf97/GeneticAlgorithm
+cd GeneticAlgorithm/
 mkdir build
 cd build/
 cmake ..
+cmake --build .
 
+ctest -C Debug
 ```
 
 ## Simple Maximization example ([Multi-peak function](examples/multi_peak_function/))
