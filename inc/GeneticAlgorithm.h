@@ -93,7 +93,7 @@ public:
     // Set crossover method: 'Uniform, OnePoint, TwoPoint, MixCrossover'
     void setCrossoverMethod(Crossover crossover) { this->crossover = crossover; }
     // Get the current crossover method, 'Uniform, OnePoint, TwoPoint, MixCrossover'
-    Selection getCrossoverMethod() { return crossover; }
+    Crossover getCrossoverMethod() { return crossover; }
 
     /**
      * @brief Chromosome Fix Function is used to fix the chromosome when unwanted genes appear during the process of crossing over
